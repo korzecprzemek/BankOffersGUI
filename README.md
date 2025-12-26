@@ -28,9 +28,4 @@ The application strictly follows the MVC pattern:
 
 The full Javadoc documentation is available online at:
 
-👉 https://korzecprzemek.github.io/BankOffersGUI/
-
-## 🧪 Tests
-
-Unit tests are located in:
-
+https://korzecprzemek.github.io/BankOffersGUI/
